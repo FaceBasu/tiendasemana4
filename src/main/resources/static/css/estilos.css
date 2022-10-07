@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: black;
+}
+h2{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#titulo{
+    background-color: aqua;
+    font-size: 44px;
+    color: white;
+
+}
+
+.producto{
+    background-color: bisque;
+}
+
+a{
+    background-color: blue;
+    color: white;
+
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+}
+
+nav a:hover{
+    background-color: black;
+    color: white;
+    font-size: 44px;
+
+}
+
